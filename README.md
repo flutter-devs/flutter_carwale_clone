@@ -3,16 +3,20 @@
 A Flutter app to showcase Carwale Flutter clone.
 
 # Demo
-<img height="480px" src="https://github.com/flutter-devs/flutter_camera_demo/blob/master/screens/demo.gif">
+<img height="480px" src="https://github.com/flutter-devs/flutter_carwale_clone/blob/aeonewcarwale_module/screens/demo.gif">
 
 
 
 # Android Screen
-<img height="480px" src="https://github.com/flutter-devs/flutter_camera_demo/blob/master/screens/android1.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_camera_demo/blob/master/screens/android2.jpg"> 
+<img height="480px" src="https://github.com/flutter-devs/flutter_carwale_clone/blob/aeonewcarwale_module/screens/android1.png"> 
+<img height="480px" src="https://github.com/flutter-devs/flutter_carwale_clone/blob/aeonewcarwale_module/screens/android2.png"> 
+<img height="480px" src="https://github.com/flutter-devs/flutter_carwale_clone/blob/aeonewcarwale_module/screens/android3.png"> 
 
 
 # iOS Screen
-<img height="480px" src="https://github.com/flutter-devs/flutter_camera_demo/blob/master/screens/iphone1.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_camera_demo/blob/master/screens/iphone2.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_camera_demo/blob/master/screens/iphone3.jpg">
+<img height="480px" src="https://github.com/flutter-devs/flutter_carwale_clone/blob/aeonewcarwale_module/screens/iphone1.png"> 
+<img height="480px" src="https://github.com/flutter-devs/flutter_carwale_clone/blob/aeonewcarwale_module/screens/iphone2.png">
+<img height="480px" src="https://github.com/flutter-devs/flutter_carwale_clone/blob/aeonewcarwale_module/screens/iphone2.png">
 
 
 
