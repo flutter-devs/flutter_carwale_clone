@@ -50,6 +50,8 @@ flutter:
   - assets/images/videos.jpg
   - assets/images/background-img.jpg
   - assets/images/photos1
+  - assets/images/powered_by.png
+  - assets/images/logo.png
 
 
   fonts:

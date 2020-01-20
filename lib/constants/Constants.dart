@@ -7,6 +7,11 @@ import 'package:aeo_newcarwale/model/upcoming_launches.dart';
 import 'package:aeo_newcarwale/model/videos.dart';
 
 class Constants{
+
+  static final String SPLASH_SCREEN = 'SPLASH_SCREEN';
+
+  static final String AEO_CARWALE = 'AEO_CARWALE';
+
   static List<PopularCars>getPopularsCars(){
     return[
       new PopularCars('assets/images/MarutiSCross.jpg','Maruti Suzuki S-Presco','₹ 3.69L', 'Avg Ex-Showroom Price','Show price in my city'),
